@@ -52,3 +52,8 @@ A modern FastAPI template configured for Vercel deployment, featuring a beautifu
 - Set environment variables PORT=8000
 - Leave the rest of the settings as they are
 - Deploy
+
+
+## Acknowledgements
+
+- (Deploying FastAPI app on Vercel Serverless by Abdullah Adeel)[https://dev.to/abdadeel/deploying-fastapi-app-on-vercel-serverless-18b1]
