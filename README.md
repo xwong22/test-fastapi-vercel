@@ -19,9 +19,12 @@ A modern FastAPI template configured for Vercel deployment, featuring a beautifu
 
 1. Create a FastAPI app with these files at the root of your project:
 
-- main.py (the main file for the fastapi app)
-- requirements.txt (the dependencies for the fastapi app)
-- vercel.json (the vercel configuration for the fastapi app)
+```
+├── main.py               # Entry point for your FastAPI application
+├── requirements.txt      # Project dependencies
+└── vercel.json          # Vercel deployment configuration
+```
+
 
 2. vercel.json structure:
 
